@@ -1,5 +1,5 @@
 {
-  "name": "@terradharitri/sdk-js-bridge",
+  "name": "@terradharitri/js-sdk-bridge",
   "version": "0.0.1",
   "description": "SDK library to interact with the bridges on Dharitri blockchain",
   "main": "index.js",
